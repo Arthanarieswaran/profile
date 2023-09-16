@@ -1,8 +1,12 @@
-body{
+@media only screen and (max-width: 600px) {
+  body {
+   
     background-color: #363545;
     display: block;
     justify-content: center;
+  }
 }
+
 .navigation_bar{
     display: flex;
     color: aliceblue;
